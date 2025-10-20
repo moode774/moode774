@@ -14,8 +14,11 @@
   <a href="https://twitter.com/moode774">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/moode774">
+  <a href="https://www.instagram.com/7o_ozx/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mnzar7162@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -23,7 +26,7 @@
 
 ## 🌌 About Me
 - 💻 Passionate about **Frontend Development** & **UI/UX Design**
-- 🌱 Learning **Next.js, React, TailwindCSS, TypeScript**
+- 🌱 Learning **Next.js, React, TailwindCSS, TypeScript, Dart, Python**
 - 🛠️ Tools & Tech: 
 
 <p align="center">
@@ -32,6 +35,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -62,6 +67,14 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=470078" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=470078" />
 </p>
+
+---
+
+## 📞 Contact Me
+- 🇾🇪 Yemen: `738453059`  
+- 🇸🇦 Saudi: `0534783401`  
+- ✉️ Email: [mnzar7162@gmail.com](mailto:mnzar7162@gmail.com)  
+- 📸 Instagram: [7o_ozx](https://www.instagram.com/7o_ozx/)
 
 ---
 
