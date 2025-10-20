@@ -98,8 +98,10 @@
 ### 🏆 GitHub Trophies & Contributions
 
 <p align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=moode774&theme=dracula&row=1&column=7" alt="GitHub Trophies"/>
   <br/>
+  <!-- Contribution Snake -->
   <img src="https://raw.githubusercontent.com/moode774/moode774/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
@@ -119,6 +121,7 @@
 </p>
 
 <p align="center">
+  <!-- ⬇️ استبدل البريد الإلكتروني هنا ⬇️ -->
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Send_Me_An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
