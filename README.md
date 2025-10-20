@@ -95,54 +95,13 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/hr.gif" width="100%" />
 </p>
 
-### 🚀 Featured Projects
+### 🏆 GitHub Trophies & Contributions
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr align="center">
-    <td width="50%" valign="top">
-      <!-- ⬇️ مشروع 1: استبدل الروابط والصور هنا ⬇️ -->
-      <a href="[LINK_TO_YOUR_PORTFOLIO_REPO]">
-        <img src="https://via.placeholder.com/400x200.png?text=My+Portfolio+Website" width="100%" alt="Portfolio Website"/>
-      </a>
-      <br/>
-      <h3><strong>Portfolio Website</strong></h3>
-      <p>My personal corner of the internet, showcasing my skills and projects, built with Next.js & Tailwind CSS.</p>
-      <a href="[LINK_TO_PORTFOLIO_DEMO]"><strong>Live Demo »</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- ⬇️ مشروع 2: استبدل الروابط والصور هنا ⬇️ -->
-      <a href="[LINK_TO_YOUR_SHOP_REPO]">
-        <img src="https://via.placeholder.com/400x200.png?text=React+E-commerce+Shop" width="100%" alt="React Shop"/>
-      </a>
-      <br/>
-      <h3><strong>React E-commerce Shop</strong></h3>
-      <p>A modern e-commerce template using React, Redux Toolkit, and styled-components for a seamless shopping experience.</p>
-      <a href="[LINK_TO_SHOP_DEMO]"><strong>Live Demo »</strong></a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="50%" valign="top">
-      <!-- ⬇️ مشروع 3: استبدل الروابط والصور هنا ⬇️ -->
-      <a href="[LINK_TO_YOUR_FLUTTER_PROJECT_REPO]">
-        <img src="https://via.placeholder.com/400x200.png?text=Flutter+Mobile+App" width="100%" alt="Flutter App"/>
-      </a>
-      <br/>
-      <h3><strong>Flutter Mobile App</strong></h3>
-      <p>A cross-platform mobile application built with Flutter and Dart, focused on performance and a native feel.</p>
-      <a href="[LINK_TO_FLUTTER_PROJECT_DEMO]"><strong>Live Demo »</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- ⬇️ مشروع 4: استبدل الروابط والصور هنا ⬇️ -->
-      <a href="[LINK_TO_YOUR_UI_LIBRARY_REPO]">
-        <img src="https://via.placeholder.com/400x200.png?text=UI+Component+Library" width="100%" alt="UI Component Library"/>
-      </a>
-      <br/>
-      <h3><strong>UI Component Library</strong></h3>
-      <p>A collection of reusable, accessible, and themeable UI components built for React applications.</p>
-      <a href="[LINK_TO_UI_LIBRARY_DEMO]"><strong>Live Demo »</strong></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moode774&theme=dracula&row=1&column=7" alt="GitHub Trophies"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/moode774/moode774/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
 
 <!-- VISUAL SEPARATOR -->
 <p align="center">
