@@ -1,77 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f3460,60:1a1a2e,100:0d1117&height=250&section=header&text=MODE&fontSize=90&fontColor=58A6FF&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%94%20Forest%20Edge%20%F0%9F%8C%BF&descSize=22&descAlignY=62&descColor=8b949e&animation=twinkling" width="100%"/>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=React+%7C+TypeScript+%7C+Python+%7C+Flutter+%F0%9F%9A%80;Building+Enterprise+Systems+for+Forest+Edge+%F0%9F%8C%BF;Firebase+%7C+Next.js+%7C+Tailwind+%7C+Electron+%E2%9A%A1;Turning+Ideas+into+Production-Ready+Products+%F0%9F%92%A1)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=MODE&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20Forest%20Edge&descSize=20&descColor=ffffffbb&descAlignY=65" width="100%"/>
+</div>
 
 <br/>
 
-<a href="https://github.com/moode774"><img src="https://img.shields.io/github/followers/moode774?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0f3460&labelColor=0d1117" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=moode774&style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Profile+Views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Saudi%20Arabia-🇸🇦-green?style=for-the-badge&labelColor=0d1117" />
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Crafting+elegant+digital+experiences+%E2%9C%A6;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+Firebase;Building+the+future+of+Forest+Edge+%F0%9F%8C%BF;From+concept+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000000?style=flat-square&logoColor=white&logo=lightning" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Saudi%20Arabia%20%F0%9F%87%B8%F0%9F%87%A6-000000?style=flat-square" />
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=moode774&style=flat-square&color=000000&label=profile+views" />
 </div>
 
 <br/>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=moode774&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF&include_all_commits=true&count_private=true"/>
+<br/>
 
-### 👨‍💻 &nbsp;About Me
+## &nbsp;&nbsp;`about`
 
-```yaml
-name:        MODE
-role:        Full-Stack Developer
-company:     Forest Edge 🌿
-location:    Saudi Arabia 🇸🇦
-experience:  React · TypeScript · Python · Flutter
-backend:     Firebase · Node.js · REST APIs
-mobile:      Flutter (Android · iOS · Web)
-desktop:     Electron Apps
-currently:   Building enterprise systems
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```swift
+struct Developer {
+    let name     = "MODE"
+    let role     = "Full-Stack Developer"
+    let company  = "Forest Edge 🌿"
+    let location = "Saudi Arabia 🇸🇦"
+
+    let frontend = ["React", "TypeScript",
+                    "Next.js", "Tailwind", "Vite"]
+    let backend  = ["Python", "Firebase",
+                    "Node.js", "REST APIs"]
+    let mobile   = ["Flutter", "Dart"]
+    let desktop  = ["Electron"]
+
+    var passion  = "Turning ideas into reality"
+}
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moode774&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=ffffffaa&ring_color=ffffff&include_all_commits=true&count_private=true&hide_title=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moode774&theme=dark&hide_border=true&background=00000000&stroke=ffffff20&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffffaa&dates=ffffff60&currStreakNum=ffffff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 🏆 &nbsp;Trophies
+<br/>
+
+## &nbsp;&nbsp;`stack`
+
+<br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moode774&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,js&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,firebase,nodejs,flutter,dart,electron&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux&theme=dark&perline=6" />
+
 </div>
 
----
-
-## ⚡ &nbsp;Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,vite,python,firebase,flutter,dart,electron,nodejs,git,github,vscode,vercel&theme=dark&perline=8" />
-
-</div>
+<br/>
 
 ---
 
-## 🚀 &nbsp;Featured Projects
+<br/>
+
+## &nbsp;&nbsp;`projects`
+
+<br/>
 
 <div align="center">
 
+<!--  ROW 1  -->
 <a href="https://github.com/moode774/Forest-Edge-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=Forest-Edge-Pro&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=Forest-Edge-Pro&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
+</a>&nbsp;
 <a href="https://github.com/moode774/-Claude-Firebase-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=-Claude-Firebase-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=-Claude-Firebase-ai&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
 </a>
 
+<br/><br/>
+
+<!--  ROW 2  -->
 <a href="https://github.com/moode774/biosync-pro-2026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=biosync-pro-2026&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=biosync-pro-2026&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
+</a>&nbsp;
 <a href="https://github.com/moode774/uni_bite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=uni_bite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=uni_bite&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
+</a>
+
+<br/><br/>
+
+<!--  ROW 3  -->
+<a href="https://github.com/moode774/forest-edge-showcase">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=forest-edge-showcase&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
+</a>&nbsp;
+<a href="https://github.com/moode774/forest-edge-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=forest-edge-system&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
 </a>
 
 </div>
@@ -80,45 +133,70 @@ currently:   Building enterprise systems
 
 <div align="center">
 
-| 🌿 Project | 📝 Description | 🔗 Live |
-|:----------:|:--------------|:-------:|
-| **Forest Edge Pro** | Full-Stack Enterprise System — React · TypeScript · Python · Firebase | [→ Live](https://prosubmit-enterprise-ai.web.app) |
-| **Forest Edge Website** | Official Company Website — React · Vite · Tailwind | [→ Live](https://forest-edge-official.vercel.app) |
-| **BioSync Pro** | HR & Attendance Management — TypeScript · Python · Firebase | [→ Live](https://coom-dce1c.web.app) |
-| **ProLabel Maestro** | Smart Label Printing System — JavaScript · Firebase | [→ Live](https://forest-edge-maestro.web.app) |
-| **UniBite** | University Food App — Flutter · Dart · Firebase | [→ Live](https://uni-bite.vercel.app) |
-| **Fajr Gulf** | Company Website — Next.js · TypeScript | [→ Live](https://fajr-gulf-site.vercel.app) |
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=moode774&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moode774&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" />
+| &nbsp; | Project | Stack | Live |
+|:---:|:--------|:------|:----:|
+| 🌿 | **Forest Edge Pro** — Full-Stack Enterprise System | `React` `TypeScript` `Python` `Firebase` | [↗](https://prosubmit-enterprise-ai.web.app) |
+| 🌐 | **Forest Edge Website** — Official Company Site | `React` `Vite` `Tailwind` | [↗](https://forest-edge-official.vercel.app) |
+| 🤖 | **Claude × Firebase** — AI meets Database | `JavaScript` `MCP` `Claude AI` | [↗](https://github.com/moode774/-Claude-Firebase-ai) |
+| 🧬 | **BioSync Pro** — HR & Attendance System | `TypeScript` `Python` `Firebase` | [↗](https://coom-dce1c.web.app) |
+| 🏷️ | **ProLabel Maestro** — Smart Label Printing | `JavaScript` `Firebase` | [↗](https://forest-edge-maestro.web.app) |
+| 🍔 | **UniBite** — University Food App | `Flutter` `Dart` `Firebase` | [↗](https://uni-bite.vercel.app) |
+| 🌅 | **Fajr Gulf** — Corporate Website | `Next.js` `TypeScript` | [↗](https://fajr-gulf-site.vercel.app) |
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moode774&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&area_color=0f3460" width="100%"/>
-</div>
-
 ---
-
-<div align="center">
-
-### 🌿 &nbsp;Forest Edge — من الفكرة إلى الإنتاج
-
-*"Code is not just syntax — it's a solution."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a1a2e&height=100&section=footer" width="100%"/>
+## &nbsp;&nbsp;`activity`
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moode774&bg_color=0d1117&color=ffffff&line=ffffff40&point=ffffff&area=true&area_color=ffffff15&hide_border=true&radius=8" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;`trophies`
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=moode774&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moode774&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffffaa&langs_count=8&border_radius=12" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>**MODE** &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Forest Edge 🌿 &nbsp;·&nbsp; Saudi Arabia 🇸🇦</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%"/>
 
 </div>
