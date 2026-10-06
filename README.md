@@ -1,202 +1,119 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=MODE&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20Forest%20Edge&descSize=20&descColor=ffffffbb&descAlignY=65" width="100%"/>
+
+<img src="assets/profile-header.svg" alt="MODE — Full-Stack Developer · Web, Desktop and Mobile" width="100%" />
+
+<br />
+
+**واجهات أنيقة. أنظمة مترابطة. منتجات تُستخدم.**
+
+أطوّر تطبيقات الويب والجوال وويندوز، مع اهتمام بتجربة المستخدم والتفاصيل التي تجعل المنتج واضحًا وسهل الاستخدام.
+
+<sub>MODE &nbsp; / &nbsp; Forest Edge &nbsp; / &nbsp; Saudi Arabia</sub>
+
 </div>
 
-<br/>
+<br />
 
-<div align="center">
+<div dir="rtl">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Crafting+elegant+digital+experiences+%E2%9C%A6;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+Firebase;Building+the+future+of+Forest+Edge+%F0%9F%8C%BF;From+concept+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
+## أعمال مختارة
+
+ثلاث تجارب مختلفة، واهتمام واحد: بناء أدوات عملية بواجهات واضحة.
 
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000000?style=flat-square&logoColor=white&logo=lightning" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Saudi%20Arabia%20%F0%9F%87%B8%F0%9F%87%A6-000000?style=flat-square" />
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=moode774&style=flat-square&color=000000&label=profile+views" />
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp;&nbsp;`about`
-
-<br/>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="33%" valign="top" dir="rtl">
 
-```swift
-struct Developer {
-    let name     = "MODE"
-    let role     = "Full-Stack Developer"
-    let company  = "Forest Edge 🌿"
-    let location = "Saudi Arabia 🇸🇦"
+### 01 &nbsp; رَدّ
 
-    let frontend = ["React", "TypeScript",
-                    "Next.js", "Tailwind", "Vite"]
-    let backend  = ["Python", "Firebase",
-                    "Node.js", "REST APIs"]
-    let mobile   = ["Flutter", "Dart"]
-    let desktop  = ["Electron"]
+**تصحيح لوحة المفاتيح**
 
-    var passion  = "Turning ideas into reality"
-}
-```
+تطبيق ويندوز يعيد النص المكتوب بتخطيط خاطئ إلى العربية أو الإنجليزية باختصار واحد، مع واجهة ثنائية اللغة ومعالجة محلية.
+
+<sub>Windows · Tauri · Rust · React</sub>
+
+<br /><br />
+
+<a href="https://apps.microsoft.com/detail/9N00D9M9T5L8"><strong>Microsoft Store ↗</strong></a>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="33%" valign="top" dir="rtl">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moode774&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=ffffffaa&ring_color=ffffff&include_all_commits=true&count_private=true&hide_title=true" width="100%"/>
+### 02 &nbsp; نَسَق
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moode774&theme=dark&hide_border=true&background=00000000&stroke=ffffff20&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffffaa&dates=ffffff60&currStreakNum=ffffff" width="100%"/>
+**مساحة عمل للمستندات**
+
+تطبيق ويندوز يجمع تحويل المستندات وتنظيم PDF والتوقيع وOCR والطباعة والمسح الضوئي، مع محركات معالجة محلية.
+
+<sub>Windows · Tauri · TypeScript</sub>
+
+<br /><br />
+
+<a href="https://github.com/moode774/Nasaq"><strong>استكشف التطبيق ↗</strong></a>
+
+</td>
+<td width="33%" valign="top" dir="rtl">
+
+### 03 &nbsp; متجر
+
+**منظومة تجارة إلكترونية**
+
+منصة تربط تجربة العميل بإدارة التاجر ومهام المندوب ولوحة الإدارة، من تصفح المنتجات إلى متابعة الطلبات والتوصيل.
+
+<sub>React Native · Expo · Supabase</sub>
+
+<br /><br />
+
+<a href="https://github.com/moode774/electron-store-app"><strong>استكشف المشروع ↗</strong></a>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br />
 
----
+<div dir="rtl">
 
-<br/>
+## ما أبنيه
 
-## &nbsp;&nbsp;`stack`
+| المجال | التركيز |
+|:---|:---|
+| **تطبيقات الويب** | واجهات متجاوبة، لوحات إدارة، ومنصات أعمال. |
+| **تطبيقات ويندوز** | أدوات عملية، تكامل مع النظام، ومعالجة محلية. |
+| **تطبيقات الجوال** | تجارب مترابطة باستخدام React Native وFlutter. |
+| **خدمات الخلفية** | بيانات، مصادقة، واجهات API ومنطق تشغيل. |
 
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,js&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,firebase,nodejs,flutter,dart,electron&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux&theme=dark&perline=6" />
+## التقنيات
 
 </div>
 
-<br/>
+**Frontend** &nbsp; React · TypeScript · Next.js · Tailwind CSS  
+**Desktop & Mobile** &nbsp; Tauri · Rust · React Native · Expo · Flutter  
+**Backend & Data** &nbsp; Node.js · Python · Supabase · Firebase
 
----
+<br />
 
-<br/>
+<div dir="rtl">
 
-## &nbsp;&nbsp;`projects`
+## من أعمالي أيضًا
 
-<br/>
-
-<div align="center">
-
-<!--  ROW 1  -->
-<a href="https://github.com/moode774/Forest-Edge-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=Forest-Edge-Pro&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
-</a>&nbsp;
-<a href="https://github.com/moode774/-Claude-Firebase-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=-Claude-Firebase-ai&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
-</a>
-
-<br/><br/>
-
-<!--  ROW 2  -->
-<a href="https://github.com/moode774/biosync-pro-2026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=biosync-pro-2026&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
-</a>&nbsp;
-<a href="https://github.com/moode774/uni_bite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=uni_bite&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
-</a>
-
-<br/><br/>
-
-<!--  ROW 3  -->
-<a href="https://github.com/moode774/forest-edge-showcase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=forest-edge-showcase&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
-</a>&nbsp;
-<a href="https://github.com/moode774/forest-edge-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moode774&repo=forest-edge-system&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffffaa&text_color=ffffffaa&border_radius=12" />
-</a>
+| المشروع | الفكرة |
+|:---|:---|
+| [**Forest Edge Pro**](https://github.com/moode774/Forest-Edge-Pro) | نظام أعمال يجمع الواجهة وخدمات الخلفية. |
+| [**BioSync Pro**](https://github.com/moode774/biosync-pro-2026) | أدوات لإدارة الموارد البشرية والحضور. |
+| [**UniBite**](https://github.com/moode774/uni_bite) | تجربة تطبيق للطعام الجامعي. |
+| [**Fajr Gulf**](https://github.com/moode774/fajr-gulf-site) | موقع تعريفي للشركة. |
 
 </div>
 
-<br/>
-
-<div align="center">
-
-| &nbsp; | Project | Stack | Live |
-|:---:|:--------|:------|:----:|
-| 🌿 | **Forest Edge Pro** — Full-Stack Enterprise System | `React` `TypeScript` `Python` `Firebase` | [↗](https://prosubmit-enterprise-ai.web.app) |
-| 🌐 | **Forest Edge Website** — Official Company Site | `React` `Vite` `Tailwind` | [↗](https://forest-edge-official.vercel.app) |
-| 🤖 | **Claude × Firebase** — AI meets Database | `JavaScript` `MCP` `Claude AI` | [↗](https://github.com/moode774/-Claude-Firebase-ai) |
-| 🧬 | **BioSync Pro** — HR & Attendance System | `TypeScript` `Python` `Firebase` | [↗](https://coom-dce1c.web.app) |
-| 🏷️ | **ProLabel Maestro** — Smart Label Printing | `JavaScript` `Firebase` | [↗](https://forest-edge-maestro.web.app) |
-| 🍔 | **UniBite** — University Food App | `Flutter` `Dart` `Firebase` | [↗](https://uni-bite.vercel.app) |
-| 🌅 | **Fajr Gulf** — Corporate Website | `Next.js` `TypeScript` | [↗](https://fajr-gulf-site.vercel.app) |
-
-</div>
-
-<br/>
+<br />
 
 ---
 
-<br/>
-
-## &nbsp;&nbsp;`activity`
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moode774&bg_color=0d1117&color=ffffff&line=ffffff40&point=ffffff&area=true&area_color=ffffff15&hide_border=true&radius=8" width="100%"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp;&nbsp;`trophies`
-
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moode774&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moode774&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffffaa&langs_count=8&border_radius=12" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>**MODE** &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Forest Edge 🌿 &nbsp;·&nbsp; Saudi Arabia 🇸🇦</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%"/>
+<sub><strong>MODE</strong> &nbsp; · &nbsp; تصميم وتنفيذ، من الفكرة إلى تجربة متكاملة.</sub>
 
 </div>
