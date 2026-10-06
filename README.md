@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="MODE — animated digital product engineering artwork" width="100%" />
+<img src="assets/mode-motion.svg" alt="MODE — animated digital product engineering artwork" width="100%" />
 
 <br />
 
