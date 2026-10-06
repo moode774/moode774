@@ -1,19 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101923"/><stop offset="1" stop-color="#080d14"/></linearGradient><linearGradient id="accent"><stop stop-color="#d9bd83"/><stop offset="1" stop-color="#9b8255"/></linearGradient></defs>
-<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
-<rect x="1" y="1" width="1198" height="318" rx="19" fill="none" stroke="#28323d"/>
-<path d="M900 0v320M980 0v320M1060 0v320M1140 0v320M850 80h350M850 160h350M850 240h350" stroke="#ffffff" stroke-opacity=".035"/>
-<circle cx="1045" cy="160" r="89" fill="none" stroke="#d9bd83" stroke-opacity=".16"/>
-<circle cx="1045" cy="160" r="62" fill="none" stroke="#d9bd83" stroke-opacity=".27"/>
-<path d="M1007 181v-43l38 25 38-25v43" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="62" y="78" width="38" height="3" fill="#d9bd83"/>
-<text x="64" y="65" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#d9bd83">DESIGN / ENGINEERING / PRODUCTS</text>
-<text x="58" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="80" font-weight="600" letter-spacing="5" fill="#f2f4f7">MODE</text>
-<text x="64" y="201" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#b7c1cd">Full-Stack Developer</text>
-<path d="M64 234h710" stroke="#2b3540"/>
-<text x="64" y="273" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#8793a3">WEB APPS</text>
-<circle cx="176" cy="268" r="2" fill="#d9bd83"/>
-<text x="199" y="273" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#8793a3">DESKTOP SOFTWARE</text>
-<circle cx="388" cy="268" r="2" fill="#d9bd83"/>
-<text x="411" y="273" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#8793a3">MOBILE EXPERIENCES</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e20"/><stop offset=".6" stop-color="#101329"/><stop offset="1" stop-color="#071a24"/></linearGradient>
+<linearGradient id="neo"><stop stop-color="#73f5d5"/><stop offset=".5" stop-color="#72b8ff"/><stop offset="1" stop-color="#b69cff"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8272ff" stop-opacity=".22"/><stop offset="1" stop-color="#8272ff" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#93b4eb" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="460" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="460" rx="24" fill="url(#grid)"/>
+<circle cx="1000" cy="210" r="290" fill="url(#halo)"><animate attributeName="opacity" values=".5;1;.5" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M0 430Q300 330 620 430T1280 410" fill="none" stroke="#78f4da" stroke-opacity=".12"><animate attributeName="d" values="M0 430Q300 330 620 430T1280 410;M0 420Q300 480 620 390T1280 430;M0 430Q300 330 620 430T1280 410" dur="9s" repeatCount="indefinite"/></path>
+<rect x="1" y="1" width="1278" height="458" rx="23" fill="none" stroke="#a1b3eb" stroke-opacity=".2"/>
+<circle cx="66" cy="50" r="4" fill="#73f5d5"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="82" y="55" fill="#9baac8" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">MODE / DIGITAL PRODUCT ENGINEERING</text>
+<text x="59" y="187" fill="#f4f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="108" font-weight="700" letter-spacing="-3">MODE<tspan fill="#73f5d5">.</tspan></text>
+<text x="66" y="233" fill="url(#neo)" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="500">Full-Stack Developer</text>
+<text x="66" y="276" fill="#9baac8" font-family="Segoe UI,Arial,sans-serif" font-size="18">Thoughtful design. Connected systems. Useful software.</text>
+<path d="M66 310h615" stroke="#a2b4de" stroke-opacity=".17"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.5">
+<rect x="66" y="334" width="112" height="34" rx="17" fill="#72b8ff" fill-opacity=".07" stroke="#72b8ff" stroke-opacity=".25"/><text x="87" y="356" fill="#bdcff3">WEB APPS</text>
+<rect x="190" y="334" width="148" height="34" rx="17" fill="#73f5d5" fill-opacity=".07" stroke="#73f5d5" stroke-opacity=".25"/><text x="210" y="356" fill="#bcf3e8">DESKTOP APPS</text>
+<rect x="350" y="334" width="139" height="34" rx="17" fill="#b69cff" fill-opacity=".07" stroke="#b69cff" stroke-opacity=".25"/><text x="373" y="356" fill="#dbcfff">MOBILE APPS</text>
+</g>
+<g transform="translate(1000 221)">
+<circle r="146" fill="none" stroke="#809bdf" stroke-opacity=".12"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="38s" repeatCount="indefinite"/><circle r="146" fill="none" stroke="url(#neo)" stroke-width="2" stroke-dasharray="105 812"/><circle cy="-146" r="5" fill="#73f5d5"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="27s" repeatCount="indefinite"/><circle r="116" fill="none" stroke="#a48fff" stroke-opacity=".6" stroke-dasharray="4 18"/><circle cx="116" r="4" fill="#b69cff"/></g>
+<polygon points="0,-84 73,-42 73,42 0,84 -73,42 -73,-42" fill="#101c32" stroke="url(#neo)" stroke-opacity=".65"/>
+<path d="M-34 29v-58L0 -3l34-26v58" fill="none" stroke="url(#neo)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="95" fill="none" stroke="#73f5d5" stroke-opacity=".15"><animate attributeName="r" values="90;106;90" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;.2;.8" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#8094bd" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2"><text x="66" y="417">FOREST EDGE</text><text x="1090" y="417">SAUDI ARABIA</text></g>
 </svg>
