@@ -1,0 +1,43 @@
+name: Publish Personal Repositories
+
+on:
+  workflow_dispatch:
+    inputs:
+      audited:
+        description: "Security audit completed"
+        required: true
+        type: boolean
+        default: false
+
+permissions: {}
+
+jobs:
+  publish:
+    if: inputs.audited == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Publish selected repositories
+        env:
+          GH_TOKEN: ${{ secrets.REPO_ADMIN_TOKEN }}
+        run: |
+          set -e
+
+          repos=(
+            "uni_bite"
+            "modee"
+            "-Claude-Firebase-ai"
+            "mode-ar"
+            "electron-store-app"
+            "lifeos"
+            "lawyer"
+            "radd"
+            "Nasaq"
+            "CartoonAI"
+          )
+
+          for repo in "${repos[@]}"; do
+            gh repo edit "moode774/$repo" \
+              --visibility public \
+              --accept-visibility-change-consequences
+          done
